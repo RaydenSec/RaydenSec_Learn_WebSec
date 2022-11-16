@@ -1,5 +1,5 @@
 # Baskerville_Learn_WebSec
-A growing repo of guides and vulnerable websites I made in PHP to learn and keep track of basic web hacking techniques. Mainly a resource for friends/family.. Take tips inside with a grain of salt..
+A growing repo of guides and vulnerable websites I made in PHP to learn and keep track of basic web hacking techniques. Mainly a resource for friends/family to introduce them to web sec.. Take tips inside with a grain of salt..
 Planned guides: 
 1. Intro to SQL Injection
 2. Bypassing radio/dropdwon inputs to use SQL Injection using BurpSuite proxy

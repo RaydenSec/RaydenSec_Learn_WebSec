@@ -18,6 +18,11 @@
 
         $result = mysqli_query($connection, $query);  
         validate($result);  
+        
+        $numRows = mysqli_num_rows($result); 
+        if ($numRows = 0) {
+            die("Incorrect Login Details :("); 
+        }
 
         while ($row = mysqli_fetch_assoc($result)) {
             ?>
